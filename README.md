@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Celestia1323
 
-pretty much can only do python<br>how do i change the name of this page
+pretty much can only do python<br>
 
 <!---
 dsadsadas1323/dsadsadas1323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
